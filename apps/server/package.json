@@ -23,7 +23,7 @@
   "dependencies": {
     "@howlsinthedark/game-engine": "workspace:*",
     "@howlsinthedark/shared": "workspace:*",
-    "@fastify/helmet": "^13.1.2",
+    "@fastify/helmet": "^13.2.0",
     "@fastify/static": "^10.1.6",
     "@socket.io/redis-adapter": "^8.3.0",
     "drizzle-orm": "^0.45.4",
