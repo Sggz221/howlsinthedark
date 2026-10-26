@@ -20,8 +20,8 @@
     "lucide-react": "^1.55.0",
     "motion": "^14.1.0",
     "qrcode-generator": "^2.0.4",
-    "react": "^19.3.0",
-    "react-dom": "^19.3.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
     "react-i18next": "^17.0.16",
     "socket.io-client": "^4.8.4"
   },
